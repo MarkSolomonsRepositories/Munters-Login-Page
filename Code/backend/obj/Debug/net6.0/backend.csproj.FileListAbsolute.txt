@@ -1,0 +1,62 @@
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\backend.exe
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\backend.deps.json
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\backend.runtimeconfig.json
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\backend.dll
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\backend.pdb
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.csproj.AssemblyReference.cache
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.AssemblyInfoInputs.cache
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.AssemblyInfo.cs
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\scopedcss\bundle\backend.styles.css
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.csproj.CopyComplete
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.dll
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\refint\backend.dll
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.pdb
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\backend.genruntimeconfig.cache
+C:\Users\Perash\source\repos\backend\obj\Debug\net6.0\ref\backend.dll
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\appsettings.json
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\backend.exe
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\backend.deps.json
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\backend.runtimeconfig.json
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\backend.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\backend.pdb
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.csproj.AssemblyReference.cache
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.AssemblyInfoInputs.cache
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.AssemblyInfo.cs
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.csproj.CoreCompileInputs.cache
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\scopedcss\bundle\backend.styles.css
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.csproj.CopyComplete
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\refint\backend.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.pdb
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\backend.genruntimeconfig.cache
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\obj\Debug\net6.0\ref\backend.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\backend.staticwebassets.runtime.json
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\CsvHelper.dll
+C:\Life\Programming\Munters WebApp Assignment - REPO\Code\backend\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\backend.staticwebassets.runtime.json
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Perash\source\repos\backend\bin\Debug\net6.0\CsvHelper.dll

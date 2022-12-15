@@ -1,0 +1,21 @@
+﻿Tag,English,Hebrew
+Language,Language,שפה
+Email_Address_header,User email address,כתובת המייל שלך
+Email,Email,אי-מייל
+Password,Password,סיסמה
+Login,Login,כניסה
+Not_Register_Message,Not registered yet?,עוד לא רשום?
+Sign_Up_Message,Sign up now,להרשם עכשיו
+Valid_Email,"Please, enter a valid email","בבקשה, הכניסו אי-מייל תקין"
+Valid_Password,"Please, enter a valid password","בבקשה, הכניסו סיסמה תקינה"
+Incorret_Log_Details,"Login details are incorrect, please try again","הפרטים שגויים, נסו שוב בבקשה"
+Sign_Up,Sign up ,הרשמה
+Username,Username,שם משתמש
+Confirm_Password,Confirm Password,אימות סיסמה
+Back_To_Login,Back to Login,חזרה לעמוד הרשמה
+Name_Mandatory,Name is mandatory,חובה להזין שם משתמש
+Password_Match,"Please, make sure the passwords match","בבקשה, דאגו שהסיסמאות דומות"
+Email_Exists,"Email already exists, please try again","כתובת המייל הזאת כבר בשימוש, בבקשה נסה שוב"
+Hello,Hello,שלום
+Last_Log,Last login,כניסה אחרונה
+Log_Count,Your login count,ספירת הכניסות שלך

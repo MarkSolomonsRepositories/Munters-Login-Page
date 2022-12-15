@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div ng-app="WeatherForcastApp" ng-controller="weatherController">
+        <p>
+            <table>
+                <thead>
+                    <tr>
+                        <th colspan="1">*</th>
+                        <th colspan="1">TempType</th>
+                        <th colspan="1">Date</th>
+                        <th colspan="1">C</th>
+                        <th colspan="1">F</th>
+                    </tr>
+
+                </thead>
+                <tbody>
+                    <tr ng-repeat="weather in weatherList">
+                        <td>{{$index + 1}}</td>
+                        <td>{{weather.summary}}</td>
+                        <td>{{weather.date | date:'medium'}}</td>
+                        <td>{{weather.temperatureC}}C</td>
+                        <td>{{weather.temperatureF}}F</td>
+                    </tr>
+                </tbody>
+            </table>
+        </p>
+    </div>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js" type="module"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>
+
+    <!--<script type="text/javascript" src="js/jquery.signalR.min.js"></script>-->
+
+    <script type="text/javascript" src="node_modules/angular-signalr-hub/signalr-hub.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="js/services.js"></script>
+    <script type="text/javascript" src="js/controllers.js"></script>
+
+
+</body>
+</html>

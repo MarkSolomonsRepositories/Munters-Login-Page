@@ -1,0 +1,43 @@
+<body [dir]="LanguageDirection">
+    <p class="h2">{{SignUpLanguage.Sign_Up}}</p>
+  <div class="forms-container"  ng-app>
+
+      <form id="Username" >
+        <label class="form-label">{{SignUpLanguage.Username}}</label>
+        <input class="form-input" type="username" name="username"  [placeholder]="SignUpLanguage.Username" (change)="username = $any($event.target).value"/>
+        <p class="form-error" *ngIf="errors.username">{{SignUpLanguage.Name_Mandatory}}</p>
+      </form>
+
+
+      <form id="email" >
+        <label class="form-label">{{SignUpLanguage.Email_Address_header}}</label>
+        <input class="form-input" type="email" name="email"  [placeholder]="SignUpLanguage.Email" (change)="email = $any($event.target).value"/>
+        <p class="form-error" *ngIf="errors.email">{{SignUpLanguage.Valid_Email}}</p>
+      </form>
+
+      <form id="password">
+        <label class="form-label">{{SignUpLanguage.Password}}</label>
+        <input class="form-input" type="password" name="psw" [placeholder]="SignUpLanguage.Password" (change)="password = $any($event.target).value"/>
+        <p class="form-error" *ngIf="errors.password">{{SignUpLanguage.Password}}</p>
+      </form>
+
+      <form id="confPassword">
+        <label class="form-label">{{SignUpLanguage.Confirm_Password}}</label>
+        <input class="form-input" type="password" name="conpsw" [placeholder]="SignUpLanguage.Confirm_Password" (change)="confPassword = $any($event.target).value"/>
+        <p class="form-error" *ngIf="errors.confPassword">{{SignUpLanguage.Password_Match}}</p>
+      </form>
+      <p class="form-error" *ngIf="!isDatabaseAuthentic">{{SignUpLanguage.Email_Exists}}</p>
+  </div>
+
+
+  <div class="actions-container">
+    <p class="signuptext" >
+      <a routerLink="/" routerLinkActive="active" ariaCurrentWhenActive="page" >{{SignUpLanguage.Back_To_Login}}</a>
+    </p>
+    <p>
+      <button class="btn-submit" (click)="submit()">
+        {{SignUpLanguage.Sign_Up}}
+      </button>
+    </p>
+  </div>
+</body>

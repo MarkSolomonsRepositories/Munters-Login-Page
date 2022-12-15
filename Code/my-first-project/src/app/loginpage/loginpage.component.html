@@ -1,0 +1,37 @@
+<body>
+  <div class="forms-container"  ng-app [dir]="LanguageDirection">
+      <form id="language">
+        <label class="form-label">{{LoginLanguage.Language}}</label>
+        <select name='Language' (change)="switchLanguage();Language = $any($event.target).value"  class="form-list" >
+          <option value="English" >English</option>
+          <option value="Hebrew" >עברית</option>
+        </select>
+      </form>
+
+      <form id="email" >
+        <label class="form-label">{{LoginLanguage.Email_Address_header}}</label>
+        <input class="form-input" type="email" name="email"  [placeholder]='LoginLanguage.Email' (change)="email = $any($event.target).value"/>
+        <p class="form-error" *ngIf="errors.email">{{LoginLanguage.Valid_Email}}</p>
+      </form>
+
+      <form id="password">
+        <label class="form-label">{{LoginLanguage.Password}}</label>
+        <input class="form-input" type="password" name="psw" [placeholder]='LoginLanguage.Password' (change)="password = $any($event.target).value"/>
+        <p class="form-error" *ngIf="errors.password">{{LoginLanguage.Valid_Password}}</p>
+      </form>
+      <p class="form-error" *ngIf="!isDatabaseAuthentic">{{LoginLanguage.Incorret_Log_Details}}</p>
+  </div>
+
+
+  <div class="actions-container" [dir]="LanguageDirection">
+    <p>
+      <button class="btn-submit" (click)="submit()">
+        {{LoginLanguage.Login}}
+      </button>
+    </p>
+    <p class="signuptext">
+      {{LoginLanguage.Not_Register_Message}}
+      <a routerLink="/signuppage" routerLinkActive="active" ariaCurrentWhenActive="page">{{LoginLanguage.Sign_Up_Message}}</a>
+    </p>
+  </div>
+</body>
