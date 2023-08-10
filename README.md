@@ -9,4 +9,5 @@ Here's a visual represantation of the project:
 <img width="960" alt="3 5" src="https://github.com/Perash14/Munters-Login-Page/assets/62203954/2c8efd34-460f-4529-8e25-8ee40dca436b">
 <img width="960" alt="4" src="https://github.com/Perash14/Munters-Login-Page/assets/62203954/a6a0a837-ceff-4456-9dd1-d4949638425c">
 <img width="960" alt="5" src="https://github.com/Perash14/Munters-Login-Page/assets/62203954/e0c247c3-94a5-4d84-a18b-18227f072201">
+
 ![6](https://github.com/Perash14/Munters-Login-Page/assets/62203954/845e7bb2-0eb9-424e-bf75-29c70217054e)
