@@ -1,6 +1,8 @@
 # Munters-Login-Page
 Login page web application using Angular and AngularJS for different areas of the project as requested by employer, with extra constantly updating weather forecast page at the end of project using websocket implementation.
 Here's a visual represantation of the project:
+
+
 <img width="960" alt="1" src="https://github.com/Perash14/Munters-Login-Page/assets/62203954/79867dc2-ceb2-4461-aef1-569ec7b24cd9">
 <img width="960" alt="2" src="https://github.com/Perash14/Munters-Login-Page/assets/62203954/ad7a8f19-f5e6-4345-8676-906ce7504293">
 <img width="960" alt="3" src="https://github.com/Perash14/Munters-Login-Page/assets/62203954/7bbe79aa-063b-4fcf-935c-f7f39b92732c">
