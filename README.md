@@ -1,5 +1,5 @@
 # Munters-Login-Page
-Login page web application using Angular and AngularJS for different areas of the project as requested by employer, with extra constantly updating weather forecast page at the end of project using websocket implementation.(Had little help during this projects making)
+Login page web application using Angular and AngularJS for different areas of the project as requested by employer, with extra constantly updating weather forecast page at the end of project using websocket implementation.(Had little help during this projects making)<br>
 Here's a visual represantation of the project:
 
 
